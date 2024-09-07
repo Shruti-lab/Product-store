@@ -30,9 +30,3 @@ app.listen(port,()=>{
 })
 
 
-//Database password: hK2YXigDK1kjSTJw
-//username: meUseprdt
-//Atlas connection string(uri):-
-//mongodb+srv://meUseprdt:hK2YXigDK1kjSTJw@productcluster.lg60c.mongodb.net/?retryWrites=true&w=majority&appName=productCluster
-
-//mongodb+srv://meUseprdt:<db_password>@productcluster.lg60c.mongodb.net/?retryWrites=true&w=majority&appName=productCluster
